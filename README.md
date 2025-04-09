@@ -7,15 +7,9 @@
 
 ###
 
-<h2 align="left">About me <br> I'am B.Veerashetty, a passionate Software Developer 💻 currently pursuing my degree at Sreyas Institute of Engineering and Technology. I have a strong interest in Web Development 🌐 and Software Development (SDE) ⚙️.
-What I Love Doing:
-🔹 Backend Development – Working with Java, Node.js & MySQL to build scalable applications ⚡
-🔹 Frontend Development – Skilled in HTML, CSS, JavaScript & React to create intuitive user interfaces 🎨
-🔹 Full-Stack Projects – Creating responsive & efficient web applications 🖥️
-🔹 Problem-Solving – Passionate about Data Structures 🧠
-🔹 Continuous Learning – Always exploring new technologies & best practices 📚
+<h2 align="left">About me <br> 
 
-I enjoy building things that make an impact, solving challenges, and collaborating with like-minded people. Let’s connect and share ideas! 🤝<br>
+
 
 ###
 
