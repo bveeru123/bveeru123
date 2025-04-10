@@ -34,7 +34,7 @@ I enjoy building things that make an impact, solving challenges, and collaborati
 <div align="left">
   <img src="https://1.bp.blogspot.com/-AvM-a6R_nnI/WnPeZ9VrfZI/AAAAAAAABZM/VhubjScBvuAC01MszE8j_c4RqczEWziCwCLcBGAs/s1600/2000px-HTML5_logo_and_wordmark.svg.png " height="80">
  <img width="16" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height="80">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height="90">
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="16" />
