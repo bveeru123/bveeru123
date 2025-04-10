@@ -52,7 +52,7 @@ I enjoy building things that make an impact, solving challenges, and collaborati
  <img width="16" />
     <img src="https://1000logos.net/wp-content/uploads/2020/08/Git-Logo-640x400.png" height="60">
      <img width="16" />
-     <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" height="60">
+     <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" height="80">
      <img width="16" />
    
 
