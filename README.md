@@ -40,11 +40,11 @@ I enjoy building things that make an impact, solving challenges, and collaborati
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="16" />
-  <img src="https://th.bing.com/th/id/R.f7337d339216d05c1551688efb13a830?rik=m28qY9WE3BaKXQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-png-nodejs-icon-png-50-px-1600.png&ehk=XR9ktXGvw5svYVTEqemL7wSEUZL%2bihqTpYBLPSQn8GQ%3d&risl=&pid=ImgRaw&r=0" height="60">
+  <img src="https://th.bing.com/th/id/R.f7337d339216d05c1551688efb13a830?rik=m28qY9WE3BaKXQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-png-nodejs-icon-png-50-px-1600.png&ehk=XR9ktXGvw5svYVTEqemL7wSEUZL%2bihqTpYBLPSQn8GQ%3d&risl=&pid=ImgRaw&r=0" height="80">
   <img width="16" />
-   <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" height="60">
+   <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" height="80">
 <img width="16" />
-   <img src="https://www.iconpacks.net/icons/free-icons-6/free-rest-api-blue-logo-icon-22098-thumb.png" height="60">
+   <img src="https://www.iconpacks.net/icons/free-icons-6/free-rest-api-blue-logo-icon-22098-thumb.png" height="80">
   <img width="16" />
     <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png"height="60">
     <img width="16" />
