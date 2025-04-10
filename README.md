@@ -48,7 +48,7 @@ I enjoy building things that make an impact, solving challenges, and collaborati
   <img width="16" />
     <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png"height="60">
     <img width="16" />
-    <img src="https://static.vecteezy.com/system/resources/previews/022/100/214/original/java-logo-transparent-free-png.png" height="60">
+    <img src="https://static.vecteezy.com/system/resources/previews/022/100/214/original/java-logo-transparent-free-png.png" height="80">
  <img width="16" />
     <img src="https://th.bing.com/th/id/OIP.0Nqz8w6eCt9VHknEOCQYCAHaEo?rs=1&pid=ImgDetMain" height="60">
      <img width="16" />
