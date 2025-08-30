@@ -8,15 +8,32 @@
 ###
 
 <h2 align="left">About me <br> </h2> 
-<br><p>I’m B. Veerashetty, a passionate Software Developer 💻 currently pursuing my degree at Sreyas Institute of Engineering and Technology. I have a strong interest in Web Development 🌐 and Software Development (SDE) ⚙️.<br>
+<br><p>I’m B. Veerashetty, As a passionate Full Stack Developer, I thrive on solving complex challenges and building user-focused, scalable applications. My expertise spans Java, React.js, Next.js, Node.js, and cloud platforms like AWS and Vercel..<br>
 What I Love Doing:<br>
+  <h1>Key Achievements:</h1><br>
+  <h2> 🏆 5★ Java coder on HackerRank</h2><br>
+  <h2>Job Pilot:</h2><br>
+  <ul>
+    <li>Built a full-stack job application tracker with ATS resume scoring via Gemini API</li>
+    <li>Google/Email authentication, and interactive dashboards using Recharts</li>
+    <li>improving user shortlisting potential by 45% and reducing manual effort by 50%.</li>
+  </ul><br><br>
+
+  <h2>Hussaini Welfare Association: </h2><br>
+  <ul>
+    <li>Migrated operations from offline to a modern online platform</li>
+    <li>impacting 500+ community members. Integrated Razorpay for secure donations, increasing contributions by 35%, and automated notifications/invoice generation </li>
+    <li> reducing manual communication by 60%.</li>
+  </ul><br>
+
+  <h2>Technical Expertise:</h2>
 <br>🔹 Backend Development – Working with Java, Node.js & MySQL to build scalable applications ⚡
 <br>🔹 Frontend Development – Skilled in HTML, CSS, JavaScript & React to create intuitive user interfaces 🎨
 <br>🔹 Full-Stack Projects – Creating responsive & efficient web applications 🖥️
 <br>🔹 Problem-Solving – Passionate about Data Structures 🧠
 <br>🔹 Continuous Learning – Always exploring new technologies & best practices 📚<br>
 
-I enjoy building things that make an impact, solving challenges, and collaborating with like-minded people.<br> Let’s connect and share ideas! 🤝
+I’m driven by the challenge of optimizing systems and collaborating with teams to deliver impactful solutions. I’m actively seeking full-time or internship opportunities in Software Engineering or Full Stack Development—let’s connect! 🤝
 </p>
 
 
