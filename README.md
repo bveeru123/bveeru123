@@ -54,7 +54,12 @@ I enjoy building things that make an impact, solving challenges, and collaborati
      <img width="16" />
      <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" height="80">
      <img width="16" />
-   
+     <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" height="80">
+     <img width="16" />
+    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" height="80">
+     <img width="16" />
+      <img src="https://toppng.com/public/uploads/preview/mongo-db-design-mongodb-logo-mongodb-11562879783bwj2cknalk.png" height="80">
+     <img width="16" />
 
 </div>
 
