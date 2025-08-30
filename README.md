@@ -10,14 +10,14 @@
 <h2 align="left">About me <br> </h2> 
 <br><p>I’m B. Veerashetty, As a passionate Full Stack Developer, I thrive on solving complex challenges and building user-focused, scalable applications. My expertise spans Java, React.js, Next.js, Node.js, and cloud platforms like AWS and Vercel..<br>
 What I Love Doing:<br>
-  <h1>Key Achievements:</h1><br>
-  <h2> 🏆 5★ Java coder on HackerRank</h2><br>
+  <h2>Key Achievements:</h2>
+  <h3> 🏆 5★ Java coder on HackerRank</h3><br>
   <h2>Job Pilot:</h2><br>
   <ul>
     <li>Built a full-stack job application tracker with ATS resume scoring via Gemini API</li>
     <li>Google/Email authentication, and interactive dashboards using Recharts</li>
     <li>improving user shortlisting potential by 45% and reducing manual effort by 50%.</li>
-  </ul><br><br>
+  </ul><br>
 
   <h2>Hussaini Welfare Association: </h2><br>
   <ul>
