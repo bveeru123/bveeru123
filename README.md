@@ -54,7 +54,7 @@ I enjoy building things that make an impact, solving challenges, and collaborati
      <img width="16" />
      <img src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" height="80">
      <img width="16" />
-     <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/next-js-logo-freelogovectors.net_.png" height="80">
+     <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" height="80">
      <img width="16" />
     <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" height="80">
      <img width="16" />
